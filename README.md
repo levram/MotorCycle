@@ -7,6 +7,7 @@ Other features are:
 * logging
 * unit testing with jsUnity
 * simple continous integration
+* extends Spreadsheet API for better control over rows visibility (hide, show)
 * mock object for part of the Calendar API, to run test locally
 * extensible event handler for modular scripts
 * utility methods
